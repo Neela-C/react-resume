@@ -1,0 +1,96 @@
+{
+    "title": "Hello! I'm Niloufar :)",
+    "subtitle": "Computer Science Student | Mathematics Enthusiest",
+    "links": {
+        "email":"niloufar711@gmail.com",
+        "github": "https://github.com/Neela-C",
+        "linkedin": "https://www.linkedin.com/in/niloufar-ashayeri-3a57607a/"
+        
+            },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content":"I believe that if you learn enough about anything, you will learn to love it."
+
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/url",
+                        "title": "React"
+                    }   
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/url",
+                        "title": "Javascript"
+                    }   
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/url",
+                        "title": "HTML"
+                    }   
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/url",
+                        "title": "CSS"
+                    }   
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "/url",
+                        "title": "Python"
+                    }   
+                }
+            ]
+        },
+        {
+            "title": "Interests",
+            "items": [
+                {
+                    "type": "p",
+                    "content":"I believe that if you learn enough about anything, you will learn to love it."
+                    
+                }
+            ]
+        },
+        {
+            "title": "Academic achievments",
+            "items": [
+                {
+                    "type": "p",
+                    "content":"I believe that if you learn enough about anything, you will learn to love it."
+                    
+                }
+            ]
+        },
+        {
+            "title": "Other achievments",
+            "items": [
+                {
+                    "type": "p",
+                    "content":"I believe that if you learn enough about anything, you will learn to love it."
+                    
+                }
+            ]
+        }
+    ] ,
+    "icons":{
+        "down": "images/down.png",
+        "up": "images/up.png"
+    }
+}

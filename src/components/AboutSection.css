@@ -1,0 +1,38 @@
+.about-section {
+
+    height: 100vh;
+    /* background-color: rgba(123, 12, 167, 0.876); */
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 30% 1fr 10%;
+    grid-template-areas: 
+    " h3 h4 "
+    " p p "
+    "goto-skills goto-skills";
+}
+
+.about-section > h3 {
+    grid-area: h3;
+    /* color: rgb(0, 0, 0); */
+    margin-top: 20%;
+    margin-right: 12%;
+    font-size: x-large;
+}
+
+.about-section > p {
+    grid-area: p;
+
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 15%;
+
+    text-align: left;
+    font-size: larger;
+}
+
+.about-section > .goto-skills {
+    grid-area: goto-skills;
+
+    margin-bottom: 10%;
+}
